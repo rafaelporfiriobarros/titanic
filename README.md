@@ -1,1 +1,1 @@
-# titanic
+# titanic EDA / ML
